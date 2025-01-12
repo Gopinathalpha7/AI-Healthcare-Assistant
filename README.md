@@ -81,6 +81,8 @@ By leveraging advanced technologies like **Retrieval-Augmented Generation (RAG)*
 ### **Home Page**  
 - **Purpose**: Introduces the app and provides an overview of its features.
 
+![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/7a76be7644a4f428b9f904ee1de648e619383f6c/redirect/assets/img/Healthcare/2.jpg)
+
 
 
 ### **AI Healthcare Chatbot**  
@@ -89,7 +91,9 @@ By leveraging advanced technologies like **Retrieval-Augmented Generation (RAG)*
   - **Name**: Meta Llama 3.1 (8B Parameters).  
   - **Training Data**: Biomedical & general domain texts.  
   - **Capabilities**: Symptom analysis and answering medical questions.  
-  - **Deployment**: Locally hosted for privacy and efficiency.  
+  - **Deployment**: Locally hosted for privacy and efficiency.
+
+![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/7a76be7644a4f428b9f904ee1de648e619383f6c/redirect/assets/img/Healthcare/4.jpg)
 
 
 
@@ -102,6 +106,7 @@ By leveraging advanced technologies like **Retrieval-Augmented Generation (RAG)*
     - Improves workflow efficiency.  
     - Supports complex and routine medical cases.  
 
+![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/7a76be7644a4f428b9f904ee1de648e619383f6c/redirect/assets/img/Healthcare/6.jpg)
 
 
 ### **Diagnoser Page**  
@@ -115,10 +120,13 @@ By leveraging advanced technologies like **Retrieval-Augmented Generation (RAG)*
   - **Oncology (Cancer)**: Random Forest (Accuracy: 82.80%).  
   - **Pulmonology (TB)**: CNN (Accuracy: 98.82%).  
 
+![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/7a76be7644a4f428b9f904ee1de648e619383f6c/redirect/assets/img/Healthcare/8.jpg)
 
 
 ### **About Page**  
 - **Purpose**: Contains all technical and app-related details for user reference.
+
+![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/7a76be7644a4f428b9f904ee1de648e619383f6c/redirect/assets/img/Healthcare/9.jpg)
 
 
 ---
